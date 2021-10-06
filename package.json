@@ -1,7 +1,7 @@
 {
   "name": "connect-four",
   "version": "0.1.0",
-  "homepage": "https://ianbeard0159.github.io/connect-four",
+  "homepage": "https://ianbeard0159.github.io/connect-four/",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
